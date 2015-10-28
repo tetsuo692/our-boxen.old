@@ -47,13 +47,13 @@ github "go",          "2.1.0"
 github "homebrew",    "1.13.0"
 github "hub",         "1.4.1"
 github "inifile",     "1.4.1", :repo => "puppetlabs/puppetlabs-inifile"
-github "nginx",       "1.4.6"
+github "nginx",       "1.6.0"
 github "nodejs",      "5.0.0"
 github "openssl",     "1.0.0"
 github "phantomjs",   "3.0.0"
 github "pkgconfig",   "1.0.0"
 github "repository",  "2.4.1"
-github "ruby",        "8.5.2"
+github "ruby",        "8.5.3"
 github "stdlib",      "4.7.0", :repo => "puppetlabs/puppetlabs-stdlib"
 github "sudo",        "1.0.0"
 github "xquartz",     "1.2.1"
@@ -65,3 +65,26 @@ github "xquartz",     "1.2.1"
 # github "postgresql",  "4.0.1"
 # github "redis",       "3.1.0"
 # github "sysctl",      "1.0.1"
+
+github "mongodb",     "1.3.3"
+
+github "dropbox"
+github "onepassword"
+github "alfred",      "1.2.0"
+github "osx",         "2.8.0"
+github "zsh",         "1.0.0"
+github "ohmyzsh",     "1.0.0", :repo => "samjsharpe/puppet-ohmyzsh"
+
+github "chrome",      "1.1.2"
+
+github "virtualbox",  "1.0.12"
+
+github "appcleaner",  "1.0.0"
+
+github "onyx",        "1.2.0"
+
+github "macvim",      "1.0.0"
+
+github "tmux",        "1.0.2"
+
+github "iterm2",	  "1.2.5"
