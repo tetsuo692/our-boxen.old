@@ -70,7 +70,7 @@ github "mongodb",     "1.3.4"
 
 github "dropbox"
 github "onepassword"
-github "alfred",      "2.7.1"
+#github "alfred",      "2.7.1"
 github "osx",         "2.8.0"
 github "zsh",         "1.0.0"
 github "ohmyzsh",     "1.0.0", :repo => "samjsharpe/puppet-ohmyzsh"
