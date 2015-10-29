@@ -15,7 +15,7 @@ class people::tetsuo692 {
     include onepassword
 
 
-    include alfred
+    #include alfred
 
     #Zsh
     include zsh

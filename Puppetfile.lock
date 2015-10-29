@@ -1,9 +1,4 @@
 GITHUBTARBALL
-  remote: boxen/puppet-alfred
-  specs:
-    alfred (1.2.0)
-
-GITHUBTARBALL
   remote: boxen/puppet-appcleaner
   specs:
     appcleaner (1.0.0)
@@ -174,7 +169,6 @@ GITHUBTARBALL
     ohmyzsh (1.0.0)
 
 DEPENDENCIES
-  alfred (= 1.2.0)
   appcleaner (= 1.0.0)
   boxen (= 3.11.0)
   brewcask (= 0.0.6)
