@@ -77,11 +77,11 @@ github "ohmyzsh",     "1.0.0", :repo => "samjsharpe/puppet-ohmyzsh"
 
 github "chrome",      "1.1.2"
 
-github "virtualbox",  "1.0.13"
+#github "virtualbox",  "1.0.13"
 
 github "appcleaner",  "1.0.0"
 
-#github "onyx",        "1.2.0"
+github "onyx",        "1.2.0"
 
 github "macvim",      "1.0.0"
 
