@@ -23,11 +23,11 @@ class people::tetsuo692 {
 
     include chrome
 
-    include virtualbox
+    #include virtualbox
 
     include appcleaner
 
-    include onyx
+    #include onyx
     include git
     /* include git::config */
     include macvim

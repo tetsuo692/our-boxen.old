@@ -89,6 +89,11 @@ GITHUBTARBALL
     onepassword (1.1.5)
 
 GITHUBTARBALL
+  remote: boxen/puppet-onyx
+  specs:
+    onyx (1.2.0)
+
+GITHUBTARBALL
   remote: boxen/puppet-openssl
   specs:
     openssl (1.0.0)
@@ -127,11 +132,6 @@ GITHUBTARBALL
   remote: boxen/puppet-tmux
   specs:
     tmux (1.0.2)
-
-GITHUBTARBALL
-  remote: boxen/puppet-virtualbox
-  specs:
-    virtualbox (1.0.13)
 
 GITHUBTARBALL
   remote: boxen/puppet-xquartz
@@ -185,6 +185,7 @@ DEPENDENCIES
   nodejs (= 5.0.0)
   ohmyzsh (= 1.0.0)
   onepassword (>= 0)
+  onyx (= 1.2.0)
   openssl (= 1.0.0)
   osx (= 2.8.0)
   phantomjs (= 3.0.0)
@@ -194,7 +195,6 @@ DEPENDENCIES
   stdlib (= 4.7.0)
   sudo (= 1.0.0)
   tmux (= 1.0.2)
-  virtualbox (= 1.0.13)
   xquartz (= 1.2.1)
   zsh (= 1.0.0)
 
