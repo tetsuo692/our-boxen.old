@@ -76,7 +76,11 @@ GITHUBTARBALL
 GITHUBTARBALL
   remote: boxen/puppet-nginx
   specs:
+<<<<<<< HEAD
+    nginx (1.6.0)
+=======
     nginx (1.7.0)
+>>>>>>> upstream/master
 
 GITHUBTARBALL
   remote: boxen/puppet-nodejs
@@ -121,7 +125,11 @@ GITHUBTARBALL
 GITHUBTARBALL
   remote: boxen/puppet-ruby
   specs:
+<<<<<<< HEAD
+    ruby (8.5.3)
+=======
     ruby (8.5.4)
+>>>>>>> upstream/master
 
 GITHUBTARBALL
   remote: boxen/puppet-sudo
@@ -164,7 +172,12 @@ GITHUBTARBALL
     ohmyzsh (1.0.0)
 
 DEPENDENCIES
+<<<<<<< HEAD
+  appcleaner (= 1.0.0)
+  boxen (= 3.11.0)
+=======
   boxen (= 3.11.1)
+>>>>>>> upstream/master
   brewcask (= 0.0.6)
   chrome (= 1.1.2)
   dnsmasq (= 2.0.1)
@@ -179,7 +192,12 @@ DEPENDENCIES
   iterm2 (= 1.2.5)
   macvim (= 1.0.0)
   module_data (= 0.0.4)
+<<<<<<< HEAD
+  mongodb (= 1.5.0)
+  nginx (= 1.6.0)
+=======
   nginx (= 1.7.0)
+>>>>>>> upstream/master
   nodejs (= 5.0.0)
   ohmyzsh (= 1.0.0)
   onepassword (>= 0)
@@ -189,7 +207,11 @@ DEPENDENCIES
   phantomjs (= 3.0.0)
   pkgconfig (= 1.0.0)
   repository (= 2.4.1)
+<<<<<<< HEAD
+  ruby (= 8.5.3)
+=======
   ruby (= 8.5.4)
+>>>>>>> upstream/master
   stdlib (= 4.7.0)
   sudo (= 1.0.0)
   tmux (= 1.0.2)
