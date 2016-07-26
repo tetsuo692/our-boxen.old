@@ -38,6 +38,7 @@ class people::tetsuo692 {
 #    include wireshark
 
     include projects::dotfiles
+	include projects::test_graph
     #include projects::echotek
     #include projects::cream
 
