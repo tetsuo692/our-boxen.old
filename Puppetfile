@@ -73,7 +73,7 @@ github "onepassword"
 #github "alfred",      "2.7.1"
 github "osx",         "2.8.0"
 github "zsh",         "1.0.0"
-github "ohmyzsh",     "1.0.0", :repo => "samjsharpe/puppet-ohmyzsh"
+github "ohmyzsh",     "1.0.0", :repo => "erivello/puppet-ohmyzsh"
 
 github "chrome",      "1.1.2"
 
