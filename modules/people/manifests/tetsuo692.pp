@@ -1,6 +1,6 @@
 class people::tetsuo692 {
 	class { 'ruby::global':
-	  version => '2.2.2'
+	  version => '2.3.1'
 	}
     #DropBox
     include dropbox
