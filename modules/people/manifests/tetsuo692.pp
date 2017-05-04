@@ -3,7 +3,7 @@ class people::tetsuo692 {
 	  version => '2.3.1'
 	}
 	include ruby::global
-	
+
     #DropBox
     include dropbox
 
