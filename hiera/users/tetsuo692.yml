@@ -1,4 +1,4 @@
-ruby::global::version: "2.3.1"
+ruby::global::version: "2.3.4"
 
 ruby::rbenv_plugins:
   rbenv-vars:
